@@ -1,2 +1,2 @@
-# -
-Mediasoft - Practice (Python)
+
+Mediasoft - Производственная практика (Python)
